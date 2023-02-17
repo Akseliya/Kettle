@@ -17,7 +17,7 @@ def sqlite_message(message: str):
 class Kettle:
     max_water_level = settings.max_water_level
     t_water = settings.t_water_beginning
-    t_water_stop = settings.t_water_stop
+    t_water_stop = settings.t_water_stop if settings.t_water_stop <= 100 else 100
     boil_time = int(settings.boil_time)
 
     def start(self):

@@ -1,0 +1,19 @@
+[16.02.23 04:44:44][INFO] Kettle is turned on
+[16.02.23 04:44:44][INFO] t water: 27�C
+[16.02.23 04:51:36][INFO] Kettle is turned on
+[16.02.23 04:51:36][INFO] t water: 27�C
+[16.02.23 04:52:33][INFO] Kettle is turned on
+[16.02.23 04:52:33][INFO] t water: 27�C
+[16.02.23 04:52:34][INFO] t water: 34�C
+[16.02.23 04:52:35][INFO] t water: 42�C
+[16.02.23 04:52:36][INFO] t water: 49�C
+[16.02.23 04:52:37][INFO] t water: 56�C
+[16.02.23 04:52:38][INFO] t water: 63�C
+[16.02.23 04:52:40][INFO] t water: 71�C
+[16.02.23 04:52:41][INFO] t water: 78�C
+[16.02.23 04:52:42][INFO] t water: 85�C
+[16.02.23 04:52:43][INFO] t water: 93�C
+[16.02.23 04:52:44][INFO] t water: 100�C
+[16.02.23 04:52:44][INFO] Kettle is boiled
+[16.02.23 04:52:44][INFO] Kettle is stopped
+[16.02.23 04:52:44][INFO] Kettle is turned off
